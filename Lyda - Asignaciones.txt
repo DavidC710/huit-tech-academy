@@ -1,0 +1,5 @@
+Lyda - FullStack
+
+1. Escoger tech para FE
+2. Escoger tech para BE
+3. Escoger tech para SQL (DB)
