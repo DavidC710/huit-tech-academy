@@ -1,0 +1,5 @@
+Asignaciones FullStack:
+
+1. Escoger Tech Frontend
+2. Escoger Tech Backend
+3. Escoger Tech DB
