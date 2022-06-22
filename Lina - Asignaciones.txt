@@ -1,0 +1,4 @@
+Asignaciones:
+
+1. Investigar qué lenguaje de programación Back le llama más la atención (Debe ser orientada a objetos)
+2. Empezar entrenamiento y entendimiento de código en Hackerrank. https://docs.microsoft.com/es-es/learn/paths/csharp-first-steps/
