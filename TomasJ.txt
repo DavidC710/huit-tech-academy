@@ -1,0 +1,4 @@
+Asignaciones:
+
+1. Estudio tech .NET C#
+2. Avance en Hackerrank
